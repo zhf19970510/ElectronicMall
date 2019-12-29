@@ -1,0 +1,30 @@
+.logo{
+    width: 150px;
+    height: 50px;
+    margin-top: -18px;
+}
+body{
+    background: #f3f3f3;
+}
+
+.main{
+    background: #ffffff;
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 10px;
+}
+.page-title{
+    text-align: center;
+}
+ul li{
+    list-style: none;
+    padding: 5px;
+    margin: 0;
+    border-bottom: 1px solid gray;
+
+}
+ul li span{
+    display: inline-block;
+    margin-right: 50px;
+}
